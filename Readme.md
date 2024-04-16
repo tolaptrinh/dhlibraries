@@ -17,4 +17,3 @@
 #### :eight_spoked_asterisk: Nhật ký thay đổi
 
 - 2024-04-12: Khởi tạo ban đầu theo [oLibraries](https://github.com/dh-hos/oLibraries)
-- 2024-04-12: Khởi tạo ban đầu theo [oLibraries](https://github.com/dh-hos/oLibraries)
